@@ -1,7 +1,7 @@
 import java.util.Scanner; 
 import java.util.Random;  
 
-//This program is a tutor that uses to increase basic math skills.
+//This program is a tutor that uses random equations to increase basic math skills.
  
 
 public class MathTutor
